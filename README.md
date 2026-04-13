@@ -1,2 +1,2 @@
 # sphuta-releases
-Official beta/trial builds, release notes, and user discussions for Sphuta platform
+Official beta and trial releases, release notes, announcements, and user discussions for SPHUTA products.
